@@ -17,7 +17,6 @@ This project allows users to generate images from text prompts using the Hugging
 
 - HTML, CSS, JavaScript
 - Hugging Face Inference API
-- dotenv (for local environment config)
 
 ---
 
@@ -28,3 +27,4 @@ This project allows users to generate images from text prompts using the Hugging
 ```bash
 git clone https://github.com/Anujpatel14/AI_Text_to_Image.git
 cd AI_Text_to_Image
+
